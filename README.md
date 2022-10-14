@@ -1,6 +1,6 @@
 # mixed_messages
 
-##Description
+## Description
 
 ================
 
@@ -10,7 +10,7 @@ The aim of this project was to implement **simple** usage of JavaScript without 
 + Knowledge of version control systems and, in particular, _Git_ and _GitHub_ to commit early and often
 + Use of Markdown to write an informative and (hopefully) professional README file with a good aesthetic
 
-##Technologies
+## Technologies
 
 ================
 
@@ -19,7 +19,7 @@ The technologies used, in order of importance were:
 2. Git and GitHub
 3. Markdown
 
-##Conclusion
+## Conclusion
 
 ===============
 
