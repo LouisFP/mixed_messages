@@ -40,4 +40,4 @@ To quote the assignment:
 
 >Codecademy
 
-I belive I have **definitely** done that!
+I believe I have **definitely** done that!
