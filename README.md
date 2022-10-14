@@ -19,6 +19,18 @@ The technologies used, in order of importance were:
 2. Git and GitHub
 3. Markdown
 
+## Setup
+
+---
+
+To run this project, download script.js and use Node.js to run the following in your terminal line
+
+```
+$ cd ../mixed_messages
+$ node script.js
+
+```
+
 ## Conclusion
 
 ---
