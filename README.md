@@ -29,7 +29,6 @@ To run this project, download script.js and use Node.js to run the following in 
 $ cd ../mixed_messages
 
 $ node script.js
-
 ```
 
 ## Conclusion
