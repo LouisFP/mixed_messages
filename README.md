@@ -13,7 +13,7 @@
 
 ---
 
-The aim of this project was to implement **simple** usage of JavaScript without any training wheel, so to speak. It required the following:
+The aim of this project was to implement **simple** usage of JavaScript without any training wheels. It required the following:
 
 + Use of JavaScript to create the function
 + Knowledge of version control systems and, in particular, _Git_ and _GitHub_ to commit early and often
