@@ -2,7 +2,7 @@
 
 ## Description
 
-================
+---
 
 The aim of this project was to implement **simple** usage of JavaScript without any training wheel, so to speak. It required the following:
 
@@ -12,7 +12,7 @@ The aim of this project was to implement **simple** usage of JavaScript without 
 
 ## Technologies
 
-================
+---
 
 The technologies used, in order of importance were:
 1. JavaSCript
@@ -21,7 +21,7 @@ The technologies used, in order of importance were:
 
 ## Conclusion
 
-===============
+---
 
 To quote the assignment:
 > "Every time a user runs a program, they should get a new, randomised output."
