@@ -1,5 +1,14 @@
 # mixed_messages
 
+## Tables of contents
+
++ [Description](#description)
++ [Technologies](#technologies)
++ [Setup](#setup)
++ [Conclusion](#conclusion)
+
+---
+
 ## Description
 
 ---

@@ -14,7 +14,3 @@ const mixedMessage = 'Important motivational quote of the day: ' + strings[randI
  '! Answer this question for yourself, \'I am giving 100% today, true or false?\' ' + 'Answer: ' + booleans[randInt(booleans.length)];  
 
 console.log(mixedMessage);
-
-// window.onload {
-//     alert()
-// } 
